@@ -1,4 +1,4 @@
-# Hi
+# Hello!
 
 My name is Alessandro. This is where I store my code projects.
 
